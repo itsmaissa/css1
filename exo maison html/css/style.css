@@ -1,0 +1,19 @@
+nav ul li a{
+    text-decoration: none;
+    background-color: red;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline-block;
+    justify-content: space-between;
+} 
+body{
+    color: blue;
+}
+body h1  {font-size: xx-large
+
+}
+body img {background-attachment:  fixed;
+
+}
